@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **shubhammishra6m@gmail.com**
 
-- ⚡ Fun fact **I am intrusted photographer😁**
+- ⚡ Fun fact **I am intrested photographer😁**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,3 +22,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubham6m&show_icons=true&locale=en" alt="shubham6m" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubham6m&" alt="shubham6m" /></p>
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubham6m&theme=2077" height="180em" />
